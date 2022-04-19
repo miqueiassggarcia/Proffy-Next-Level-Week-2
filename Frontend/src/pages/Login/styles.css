@@ -1,0 +1,30 @@
+#container {
+  width: 50vw;
+  height: 100vh;
+  background: blue;
+  margin-right: 50%;
+}
+
+.logo-container-login img {
+  height: 10rem;
+}
+
+.hero-image {
+  width: 100%;
+}
+
+.logo-container-login {
+  background: #000;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: left;
+  margin-bottom: 3.2rem;
+}
+
+.logo-container h2 {
+  font-weight: 500;
+  font-size: 2.4rem;
+  font-weight: 4.6rem;
+  margin-top: 0.8rem;
+}
