@@ -1,4 +1,4 @@
-# Proffy-Next-Level-Week-2
+# Proffy
 
 ## ⚡ Tecnologias utilizadas
 <div>
