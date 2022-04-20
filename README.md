@@ -1,4 +1,4 @@
-# Proffy-Semana-Omnistack-11
+# Proffy-Next-Level-Week-2
 
 ## ⚡ Tecnologias utilizadas
 <div>
@@ -54,4 +54,4 @@ Já com o node instalado, entre no diretório do projeto pelo terminal dê os se
 
 Projeto inicializado com expo init [Create new project Expo](https://docs.expo.dev/get-started/create-a-new-app/).
 
-### Projeto criado na semana omnistack 11.
+### Projeto criado no next level week 2.
